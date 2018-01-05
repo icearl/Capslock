@@ -1822,9 +1822,9 @@
           },
           "to": [
             {
-              "key_code": "semicolon",
+              "key_code": "equal_sign",
               "modifiers": [
-                "left_shift"
+              
               ]
             }
           ]
