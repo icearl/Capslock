@@ -1822,7 +1822,7 @@
           },
           "to": [
             {
-              "key_code": "equal_sign",
+              "key_code": "return_or_enter",
               "modifiers": [
               
               ]
@@ -1844,9 +1844,9 @@
           },
           "to": [
             {
-              "key_code": "quote",
+              "key_code": "equal_sign",
               "modifiers": [
-                "left_shift"
+              
               ]
             }
           ]
