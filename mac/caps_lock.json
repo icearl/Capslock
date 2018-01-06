@@ -804,7 +804,7 @@
             {
               "key_code": "c",
               "modifiers": [
-                "left_control"
+                "left_command"
               ]
             }
           ]
@@ -826,7 +826,7 @@
             {
               "key_code": "v",
               "modifiers": [
-                "left_control"
+                "left_command"
               ]
             }
           ]
