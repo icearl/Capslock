@@ -617,11 +617,7 @@
             "modifiers": {
               "mandatory": [
                 "fn",
-                "left_command",
-                "right_command",
-                "right_control",
-                "right_shift",
-                "right_option"
+                "left_command"
               ]
             }
           },
