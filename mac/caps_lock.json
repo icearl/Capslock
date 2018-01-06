@@ -630,7 +630,7 @@
               "key_code": "w",
               "modifiers": [
                 "left_command",
-                "left_control",
+                "left_control"
               ]
             }
           ]
