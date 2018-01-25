@@ -894,9 +894,9 @@
           },
           "to": [
             {
-              "key_code": "r",
+              "key_code": "x",
               "modifiers": [
-                "left_control"
+                "left_command"
               ]
             }
           ]
