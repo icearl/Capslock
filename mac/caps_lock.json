@@ -38,6 +38,58 @@
       ]
     },
     {
+      "description": "more",
+      "manipulators": [
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "semicolon",
+            "modifiers": {
+              "mandatory": [
+                "left_command",
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "f10",
+              "modifiers": [
+                "left_control",
+                "fn",
+                "left_shift"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "basic",
+          "from": {
+            "key_code": "t",
+            "modifiers": {
+              "mandatory": [
+                "right_command",
+                "right_control",
+                "right_shift",
+                "right_option"
+              ]
+            }
+          },
+          "to": [
+            {
+              "key_code": "t",
+              "modifiers": [
+                "left_command"
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
       "description": "Hyper Navigation",
       "manipulators": [
         {
@@ -140,9 +192,9 @@
           },
           "to": [
             {
-              "key_code": "up_arrow",
+              "key_code": "t",
               "modifiers": [
-                "left_shift"
+                "left_command"
               ]
             }
           ]
