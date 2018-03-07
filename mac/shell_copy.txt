@@ -1,0 +1,1 @@
+cp ~/data/work/github_project/Capslock/mac/capslock.json ~/.config/karabiner/assets/complex_modifications/
