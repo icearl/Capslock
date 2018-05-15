@@ -749,7 +749,7 @@
           },
           "to": [
             {
-              "key_code": "q",
+              "key_code": "open_bracket",
               "modifiers": [
                 "left_command"
               ]
