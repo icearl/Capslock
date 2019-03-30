@@ -1,5 +1,5 @@
 1. 编辑完 json 文件后，pycharm 可以提示是否有语法错误。没有语法错误再执行下面语句
-2. cp ~/data/work/github_project/Capslock/mac/caps_lock.json ~/.config/karabiner/assets/complex_modifications/
+2. cp ~/data/work/github_project/Capslock/mac/caps_lock_3_right_key.json ~/.config/karabiner/assets/complex_modifications/
 3. 按步骤添加(正常会出现除了 example 以外，icearl 开头的一个规则集)
   * Open `karabiner-elements`
   * Select tab `Complex Modification`
