@@ -1,5 +1,7 @@
 # Capslock
 
+> keboard layout editor: http://www.keyboard-layout-editor.com
+
 *Make CapsLock Great Again!*  
 
 ![](images/trump.jpg)
