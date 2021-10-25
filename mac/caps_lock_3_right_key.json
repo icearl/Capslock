@@ -206,9 +206,9 @@
           },
           "to": [
             {
-              "key_code": "t",
+              "key_code": "up_arrow",
               "modifiers": [
-                "left_command"
+                "left_shift"
               ]
             }
           ]
